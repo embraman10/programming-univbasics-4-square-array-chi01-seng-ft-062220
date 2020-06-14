@@ -1,8 +1,8 @@
 def square_array(array)
-  while true do
-    arr = []
-    array.each { |i| arr << i ** 2 }
-    arr
+  count= 0
+  while count < array.length do
+    array**
+    count += 1
   end
 end
 
